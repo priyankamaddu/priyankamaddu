@@ -21,6 +21,8 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/priyanka-maddu/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
   <a href="https://leetcode.com/u/priyanka_maddu/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" /></a>
+  <a href="https://www.kaggle.com/priyankamaddu" target="blank"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/kaggle.svg" height="30" width="40"/></a>
+
 </p>
 
 ---
