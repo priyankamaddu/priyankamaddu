@@ -13,7 +13,7 @@
 - 💻 Exploring a wide range of **programming languages and tools**
 - 📂 Check out my projects on [GitHub](https://github.com/priyankamaddu)
 - 📫 Reach me at: **priyankamaddu04@gmail.com**
-- [![Resume](https://img.shields.io/badge/Resume-View-blue?style=for-the-badge)]([https://drive.google.com/file/d/1hihra0UkywKWBeVZi6BUF5-obKJOIh4x/view?usp=sharing](https://drive.google.com/file/d/1bcfsR0UjAlIoaAIsKRrxHosiRNb5brz8/view?usp=sharing))
+- [![Resume](https://img.shields.io/badge/Resume-View-blue?style=for-the-badge)](https://drive.google.com/file/d/1hihra0UkywKWBeVZi6BUF5-obKJOIh4x/view?usp=sharing)
 
 ---
 
